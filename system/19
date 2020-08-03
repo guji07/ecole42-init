@@ -1,0 +1,1 @@
+system ctl list-units --type service --all
