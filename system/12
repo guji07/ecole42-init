@@ -1,1 +1,4 @@
 sudo du -sh /var/*
+#du - summarize disk usage
+-s: report only about total sum for each file
+-h: all sizes scaled for human-readable format

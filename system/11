@@ -1,1 +1,2 @@
-df -h
+df -h 
+# -h for friendly output

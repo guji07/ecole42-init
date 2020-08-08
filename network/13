@@ -1,1 +1,2 @@
-nslookup $'IP from 12'
+# nslookup $'IP from 12'
+nslookup 192.168.21.88 
